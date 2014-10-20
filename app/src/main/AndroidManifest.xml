@@ -16,6 +16,30 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".Spiltyper"
+            android:label="@string/title_activity_spiltyper" >
+        </activity>
+        <activity
+            android:name=".Kategorier"
+            android:label="@string/title_activity_kategorier" >
+        </activity>
+        <activity
+            android:name=".Spillet"
+            android:label="@string/title_activity_spillet" >
+        </activity>
+        <activity
+            android:name=".SpilFaerdigt"
+            android:label="@string/title_activity_spil_faerdigt" >
+        </activity>
+        <activity
+            android:name=".Upload"
+            android:label="@string/title_activity_upload" >
+        </activity>
+        <activity
+            android:name=".Highscore"
+            android:label="@string/title_activity_highscore" >
+        </activity>
     </application>
 
 </manifest>
